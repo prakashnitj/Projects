@@ -1,0 +1,39 @@
+.calc{
+	position:fixed;
+	top:30%;
+	left:30%;
+	margin-top:-30px;
+	margin-left:-30px;
+	width:250px;
+	height:400px;
+}
+.btn{
+	width:250px;
+}
+input[type=button]{
+	margin-left:12.4px;
+	margin-top:10px;
+	height:50px;
+	background-color:lightgrey;
+	border-radius:5px;
+	font-weight:bold;
+	width:50px;
+	font-size:20px;
+	box-shadow:5px 10px #888888;
+}
+input[type=button].leftbtn{
+	margin-left:0px;
+}
+.text{
+	height:30px;
+}
+#special{
+	width:50px;
+}
+input[type=text]{
+	height:25px;
+	width:250px;
+	border-radius:5px;
+	border:solid black 3px;
+	box-shadow:5px 10px white;
+}
